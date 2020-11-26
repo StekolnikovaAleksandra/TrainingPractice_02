@@ -1,0 +1,10 @@
+C:\Users\Александра\Desktop\Учебная практика\TrainingPractice_02\TrainingPractice_02\bin\Debug\TrainingPractice_02.exe.config
+C:\Users\Александра\Desktop\Учебная практика\TrainingPractice_02\TrainingPractice_02\bin\Debug\TrainingPractice_02.exe
+C:\Users\Александра\Desktop\Учебная практика\TrainingPractice_02\TrainingPractice_02\bin\Debug\TrainingPractice_02.pdb
+C:\Users\Александра\Desktop\Учебная практика\TrainingPractice_02\TrainingPractice_02\obj\Debug\TrainingPractice_02.csprojAssemblyReference.cache
+C:\Users\Александра\Desktop\Учебная практика\TrainingPractice_02\TrainingPractice_02\obj\Debug\TrainingPractice_02.Form1.resources
+C:\Users\Александра\Desktop\Учебная практика\TrainingPractice_02\TrainingPractice_02\obj\Debug\TrainingPractice_02.Properties.Resources.resources
+C:\Users\Александра\Desktop\Учебная практика\TrainingPractice_02\TrainingPractice_02\obj\Debug\TrainingPractice_02.csproj.GenerateResource.cache
+C:\Users\Александра\Desktop\Учебная практика\TrainingPractice_02\TrainingPractice_02\obj\Debug\TrainingPractice_02.csproj.CoreCompileInputs.cache
+C:\Users\Александра\Desktop\Учебная практика\TrainingPractice_02\TrainingPractice_02\obj\Debug\TrainingPractice_02.exe
+C:\Users\Александра\Desktop\Учебная практика\TrainingPractice_02\TrainingPractice_02\obj\Debug\TrainingPractice_02.pdb
